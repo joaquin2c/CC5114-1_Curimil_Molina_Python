@@ -7,3 +7,5 @@ group of randomly numbers in a desire range.
 
 The folder 'Tarea 1' contains the code of the proyect for the dataser 'Iris.data', with the answer to all the questions 
 made in the statement. The only things necesary to works this code are the libraries and de dataser
+
+In the java version of this code is in the repository https://github.com/Pancho9494/CC5114-1_Curimil_Molina.git 
